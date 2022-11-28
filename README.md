@@ -56,3 +56,6 @@
 8. Jika data sudah selesai diinput, pilih menu "K" maka program akan berhenti.
 
 ![foto13](foto/foto13.png)
+
+### Flowchart Program
+
