@@ -31,7 +31,7 @@
 
 8. OUTPUT 
 
-
+![foto16](foto/foto16.png)
 
 ## Daftar nilai siswa menggunakan dictionary
 
@@ -62,6 +62,12 @@
 ![foto13](foto/foto13.png)
 
 9. OUTPUT 
+
+![foto17](foto/foto17.png)
+
+![foto18](foto/foto18.png)
+
+![foto19](foto/foto19.png)
 
 ### Flowchart Program
 
