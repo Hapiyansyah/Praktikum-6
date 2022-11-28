@@ -29,6 +29,10 @@
 
 ![foto7](foto/foto7.png)
 
+8. OUTPUT 
+
+
+
 ## Daftar nilai siswa menggunakan dictionary
 
 1. Membuat dictionary kosong yang nanti akan diinput dengan sebuah data.
@@ -56,6 +60,8 @@
 8. Jika data sudah selesai diinput, pilih menu "K" maka program akan berhenti.
 
 ![foto13](foto/foto13.png)
+
+9. OUTPUT 
 
 ### Flowchart Program
 
